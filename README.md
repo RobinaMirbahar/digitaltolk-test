@@ -17,6 +17,8 @@ digitaltolk-test/
 │   ├── variables.tf
 
 │   ├── outputs.tf
+![image](https://github.com/user-attachments/assets/7971d862-ce20-4463-9e09-df8b66ae9f07)
+
 
 # DigitalTolk Take-Home Test
 
