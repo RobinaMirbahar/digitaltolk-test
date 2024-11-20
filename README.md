@@ -1,4 +1,5 @@
 # digitaltolk-test
+Project Structure 
 
 digitaltolk-test/
 ├── datetime-api/
@@ -16,3 +17,23 @@ digitaltolk-test/
 │   ├── variables.tf
 
 │   ├── outputs.tf
+
+# DigitalTolk Take-Home Test
+
+This repository contains the solutions for the DigitalTolk take-home test. It includes:
+1. A Dockerized Python API that displays the current date and time.
+2. A Terraform configuration to set up an EC2 instance as a bastion host.
+
+## Contents
+- `datetime-api/`: Python API project with Docker support.
+- `terraform-ec2-bastion/`: Terraform files to provision an EC2 bastion host.
+
+## How to Use
+
+### Python API
+1. Navigate to the `datetime-api` directory.
+2. Build and run the Docker container:
+   ```bash
+   docker build -t datetime-api .
+   docker run -d -p 8000:8000 datetime-api
+
