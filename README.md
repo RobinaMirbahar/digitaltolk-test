@@ -41,6 +41,7 @@ This repository contains the solutions for the DigitalTolk take-home test. It in
 
    # Verify
    http://127.0.0.1:8000/datetime
-   ![image](https://github.com/user-attachments/assets/8a744b96-f399-4cee-a80e-1aabe9a69e6d)
+  ![image](https://github.com/user-attachments/assets/78d14da1-e8ff-421a-a6b7-3083623b9b80)
+
 
 
