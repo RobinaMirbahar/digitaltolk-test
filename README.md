@@ -39,3 +39,6 @@ This repository contains the solutions for the DigitalTolk take-home test. It in
    docker build -t datetime-api .
    docker run -d -p 8000:8000 datetime-api
 
+   # Verify
+   http://127.0.0.1:8000/datetime
+
